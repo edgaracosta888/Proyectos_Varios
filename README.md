@@ -5,7 +5,7 @@ Este repositorio contiene varios proyectos menores relacionados con ciencia de d
 ## Proyectos
 
 ### Display_LED
-Proyecto que incluye una función en Python para mostrar números enteros en formato LED utilizando caracteres ASCII. El código está en un notebook de Jupyter y permite visualizar números de manera gráfica en la consola.
+Proyecto que incluye una función en Python para mostrar números enteros en formato LED utilizando caracteres ASCII. El código está en un notebook de Jupyter y permite visualizar números de manera gráfica en la consola. Tiene 3 versiones donde la última "Versión Funcional" está optimizada.
 
 
 ## Cómo contribuir
