@@ -1,13 +1,38 @@
 # Proyectos_Varios
 
-Este repositorio contiene varios proyectos menores relacionados con ciencia de datos y programación. Los proyectos se irán actualizando o agregando con el tiempo según surjan ideas o necesidades.
+Repositorio personal para agrupar proyectos diversos de programación y lógica aplicada.
+Aquí se irán incorporando notebooks y códigos de distintos temas, desde visualizaciones simples hasta juegos y ejercicios de lógica.
 
 ## Proyectos
 
-### Display_LED
-Proyecto que incluye una función en Python para mostrar números enteros en formato LED utilizando caracteres ASCII. El código está en un notebook de Jupyter y permite visualizar números de manera gráfica en la consola. Tiene 3 versiones donde la última "Versión Funcional" está optimizada.
+### 1. Display_LED
+- **Carpeta:** `Display_LED/`
+- **Descripción breve:**
+	Proyecto en Python para mostrar números enteros en formato LED usando caracteres ASCII.
+	Incluye varias versiones de implementación, donde la versión funcional está optimizada en legibilidad y eficiencia.
 
-### Tres en Línea
-Proyecto de Tres en línea (Tricky) desarrollado en Python para practicar lógica de programación.
-Se implementa gestión de turnos, control del estado del tablero y reglas de finalización (victoria/empate), priorizando claridad del código y estructura modular.
-En la primera versión, la computadora participa como oponente, pero no calcula estrategias: sus jugadas se seleccionan al azar.
+### 2. Tricky (Tres en Línea)
+- **Carpeta:** `Tricky/`
+- **Descripción breve:**
+	Implementación del juego Tres en línea en Python para practicar estructuras de control y lógica de juego.
+	Incluye gestión de turnos, validación de jugadas y verificación de victoria/empate.
+	En la versión actual, la computadora juega como oponente con movimientos aleatorios (sin estrategia).
+
+### 3. Próximos proyectos
+
+## Estructura
+
+```text
+Proyectos_Varios/
+├── README.md
+├── Display_LED/
+└── Tricky/
+```
+
+> La estructura irá creciendo a medida que se agreguen nuevos proyectos.
+
+## Notas
+
+- Cada subcarpeta representa un proyecto independiente.
+- Se prioriza código claro, incremental y fácil de mantener.
+- Este repositorio se encuentra en actualización continua.
